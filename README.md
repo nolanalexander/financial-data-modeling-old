@@ -1,7 +1,7 @@
 # Financial Data Modeling
 
 ## Purpose
-This repository used to experiment with and learn about quantitative finance while I was in undergrad.
+This repository was used to experiment with and learn about quantitative finance while I was in undergrad.
 
 ## From Scratch vs Implementing Specific Packages
 The Markowitz Portfolio Optimization, Black-Litterman model, and modules to set up or transform the portfolio parameters were implemented from scratch with the SciPy optimizer. The rest were examples demonstrating the use of specific packages such as pymc3 and arch.
